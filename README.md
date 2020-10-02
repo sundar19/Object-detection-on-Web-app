@@ -2,7 +2,7 @@
 Object detection done on a web application (In my case used YOLOv3 &amp; Flask)
 
 
-Add yolov3.weights file from https://pjreddie.com/darknet/yolo/ and add that file into /yolov3-coco/ folder 
+Download yolov3.weights file from https://pjreddie.com/darknet/yolo/ and add that file into /yolov3-coco/ folder 
 
 Thanks https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV & https://github.com/behl1anmol/VideoStreamingFlask
 
